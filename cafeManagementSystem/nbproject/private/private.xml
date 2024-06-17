@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Project/cafeManagementSystem/src/model/Cart.java</file>
+            <file>file:/D:/Project/cafeManagementSystem/src/model/CartDao.java</file>
+            <file>file:/D:/Project/cafeManagementSystem/src/model/Product.java</file>
+            <file>file:/D:/Project/cafeManagementSystem/src/model/Admin.java</file>
+            <file>file:/D:/Project/cafeManagementSystem/src/model/MyConnection.java</file>
+            <file>file:/D:/Project/cafeManagementSystem/src/cafe/Register.java</file>
+            <file>file:/D:/Project/cafeManagementSystem/src/model/PaymentDao.java</file>
+            <file>file:/D:/Project/cafeManagementSystem/src/cafe/ManageProducts.java</file>
+            <file>file:/D:/Project/cafeManagementSystem/src/cafe/CartFrame.java</file>
+            <file>file:/D:/Project/cafeManagementSystem/src/cafe/OrderProducts.java</file>
+            <file>file:/D:/Project/cafeManagementSystem/src/cafe/HomeFrame.java</file>
+            <file>file:/D:/Project/cafeManagementSystem/src/cafe/Login.java</file>
+            <file>file:/D:/Project/cafeManagementSystem/src/model/Payment.java</file>
+            <file>file:/D:/Project/cafeManagementSystem/src/model/ProductDao.java</file>
+            <file>file:/D:/Project/cafeManagementSystem/src/model/AdminDao.java</file>
+        </group>
+    </open-files>
+</project-private>
